@@ -5,7 +5,11 @@ html {
   --secondary-color: #750707;
   --primary-font: "'Poppins', sans-serif";
 }
-
+* {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+}
 .error-message-generic p {
   color: var(--primary-color) !important;
   word-break: break-word;

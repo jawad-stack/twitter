@@ -1,9 +1,9 @@
 import NoPage from "./NoPageFound";
-import login from "./Login";
+// import login from "./Login";
 import LandingPage from "./LandingPage";
 const WEB_PAGES = {
   NOPAGE: NoPage,
-  LOGIN: login,
+  // LOGIN: login,
   LANDINGPAGE: LandingPage,
 };
 
